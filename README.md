@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tywitoto
-- 👀 I’m interested in Java development
+- 👀 I’m interested in Java devlopment
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ?
 <!--- - 📫 How to reach me 
