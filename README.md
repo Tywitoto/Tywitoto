@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tywitoto
 - 👀 I’m interested in Java devlopment
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ?
+- 💞️ I’m looking to collaborate on lmf doc
 <!--- - 📫 How to reach me 
 --->
 <!---
